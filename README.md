@@ -30,4 +30,4 @@ You can also enable or disable auto claim for all windows.
 
 
 ## License
-This project is licensed under MIT - see the [License](https://github.com/olsenngt/Near-wallet-bot/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/daomaiauto/Near-wallet-bot/blob/main/LICENSEE)
